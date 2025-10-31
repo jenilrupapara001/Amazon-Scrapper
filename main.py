@@ -25,7 +25,7 @@ For: <span style='color:#6366f1'>Enterprise, Marketplace, eCommerce, Analytics, 
 # --------- SIDEBAR: ENTERPRISE STYLE ---------
 with st.sidebar:
     st.image(
-        "https://brandcentral.in/wp-content/uploads/2022/07/brandcentral-logo.png",
+        "https://brandcentral.in/wp-content/uploads/2024/09/logo.png",
         width=180
     )
     st.markdown("<h3 style='margin-top:-18px;'>BrandCentral | Enterprise Suite</h3>", unsafe_allow_html=True)
