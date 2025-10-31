@@ -21,7 +21,7 @@ USER_AGENTS = [
 st.set_page_config(
     page_title="BrandCentral Amazon Scraper | Enterprise",
     layout="wide",
-    page_icon="🟠"
+    page_icon="https://upload.wikimedia.org/wikipedia/commons/d/de/Amazon_icon.png"
 )
 
 # Sidebar content
